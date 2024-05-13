@@ -4,9 +4,15 @@
 
 Bu proje, [Vite](https://vitejs.dev/) kullanılarak oluşturulmuş bir Vue.js uygulamasıdır. Vite, hızlı bir geliştirme deneyimi sunan bir JavaScript aracıdır.
 
+## Bilgisayar Ekranı Görünümü
+
 ![Vue Todo Projesi](./src/assets/todoVue.gif)
 
+## Cep Telefonu Ekranı Görünümü
+
 ![Vue Todo Projesi Phone](./src/assets/cepTel.jpg)
+
+## Tablet Ekranı Görünümü
 
 ![Vue Todo Projesi Tablet](./src/assets/tablet.jpg)
 
